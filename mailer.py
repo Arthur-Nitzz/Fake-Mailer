@@ -4,7 +4,6 @@ import time
 from os import system
 from time import sleep
 
-## ORIGINAL SCRIPT BY THELINUXCHOICE
 
 try:
     import requests
